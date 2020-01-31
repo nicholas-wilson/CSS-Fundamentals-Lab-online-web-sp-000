@@ -12,6 +12,7 @@ section#featured-property p {
   width: 800px;
   text-align: center;
   margin: auto;
+  padding: 10px;
 }
 
 section#featured-property figure {
@@ -26,4 +27,12 @@ header a {
 
 header a:hover {
   background-color: white;
+}
+
+section#details div{
+  display: block;
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: rgb(180, 255, 100);
 }
