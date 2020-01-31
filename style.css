@@ -27,8 +27,3 @@ header a {
 header a:hover {
   background-color: white;
 }
-
-section#details {
-  display: block;
-  float: left;
-}
