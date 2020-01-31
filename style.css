@@ -30,5 +30,5 @@ header a:hover {
 
 details {
   display: block;
-  flo
+  float: left;
 }
