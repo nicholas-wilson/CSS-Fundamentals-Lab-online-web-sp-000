@@ -28,7 +28,7 @@ header a:hover {
   background-color: white;
 }
 
-section#details {
+section#details div{
   display: block;
   float: left;
 }
